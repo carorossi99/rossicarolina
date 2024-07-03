@@ -1,0 +1,185 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Overpass';
+	box-sizing: border-box;
+
+}
+
+body {
+	background-image: url(../img/fondo.jpg);
+}
+
+main {width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+header {
+	width: 100%;
+	height: 100px;
+    background-color: #590202;
+}
+
+.logo {
+	height: 100%;
+	vertical-align: middle;
+	margin-left: 30px;
+
+}
+
+nav {
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 15%;
+}
+
+.botonera-horizontal li
+{
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 60px;
+	font-size: 20px;
+	font-family: 'Overpass';
+}
+
+.botonera-horizontal li a {
+	color: #F2F2F2;
+}
+
+.botonera-horizontal li a:hover {
+	color: #D9B29C;
+	text-decoration: underline;
+}
+
+a {
+	text-decoration: none;
+}
+
+
+section	{
+	width: 100%;
+	height: 100px;
+}
+
+#uno {
+	width: 57%;
+	height: 550px;
+	float: right;
+	text-align: center;
+
+}
+
+
+.cuadrado {
+	font-family: 'Overpass';
+	font-size: 20px;
+	margin: 45px;
+	padding: 0px;
+	width: 90%;
+	height: 550px;
+	text-align: center;
+}
+
+.perro {
+	margin: 5px;
+	padding: 20px;
+	width: 100%;
+	height: 100%;
+}
+
+.columnas {
+	width: 100%;
+	margin-left: 0px;
+	height: 508px;
+	background-color: #A60311;
+	color: #F2F2F2;
+	text-align: left;
+	padding: 15px;
+}
+
+
+#dos {
+	width: 40%;
+	height: 550px;
+	float: left;
+	margin: 20px;
+
+}
+
+
+footer {
+	width: 100%;
+	height: 50px;
+	background-color: #D9C7B8;
+	float: left;
+
+}
+
+.redsocial {
+	width: 99,5%;
+	height: 60%;
+	padding:0px;
+	margin: 13px;
+	float: left;
+	margin-left:45px ;
+}
+
+.nombre {
+	padding:0px;
+	margin: 20px;
+	margin-right: 55px;
+	float: right;
+	font-family: 'Overpass';
+	font-size: 15px;
+
+}
+
+form{
+	width: 550px;
+	height: 600px;
+	background-color: #D9C7B8;
+	padding: 30px;
+	margin: 30px;
+	margin-left:470px;
+	color: #A60311;
+	font-family: 'Overpass';
+	font-size: 18px;
+}
+
+.largo{
+	width: 100%;
+	height: 30px;
+}
+
+.caja{
+	width: 100%;
+	height: 100px;
+}
+
+h1{color: #A65B4B;
+}
+
+.boton{
+	width: 50%;
+	height: 45px;
+	font-size: 20px;
+	float: left;
+	margin-left: 120px;
+	color: #D9C7B8;
+	background-color:#A60311;
+	border-radius: 20px;
+}
+
+.miniaturas {
+	width: 300px;
+	margin: 25px;
+	float: left;
+	margin-left: 50px;
+}
+
+.slider {
+	width: 100%;
+	height: 550px;
+}
